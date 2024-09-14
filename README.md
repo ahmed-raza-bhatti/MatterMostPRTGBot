@@ -59,4 +59,4 @@ The script runs in an infinite loop, calling `send_prtg_updates()` every 60 seco
 2. Update the configuration variables (`WEBHOOK_URL`, `SENSOR_OBJIDS_FILE`, `PRTG_API_URL`).
 3. Run the script:
    ```bash
-   python script_name.py
+   python mattermostAlertBot.py
